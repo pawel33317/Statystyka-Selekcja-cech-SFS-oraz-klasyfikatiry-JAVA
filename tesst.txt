@@ -1,0 +1,7 @@
+AAAA aaa,1.0,1.0,2.0 
+AAAA aaa,2.0,3.0,2.0 
+AAAA aaa,4.0,7.0,9.0 
+AAAA aaa,2.0,5.0,6.0 
+BBBB bbb,3.0,3.0,2.0 
+BBBB bbb,4.0,5.0,5.0 
+BBBB bbb,7.0,6.0,7.0 
